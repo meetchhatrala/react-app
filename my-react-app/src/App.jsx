@@ -237,6 +237,8 @@ const styles = {
 
     minHeight: "100vh",
 
+    width: "100vw",
+
     background: "#0f0f11",
 
     display: "flex",

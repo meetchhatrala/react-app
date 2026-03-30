@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
  
-const API_URL = "http://backend.dev.svc.cluster.local:5000/api/items" || "http://localhost:5000/api/items";
+const API_URL = "/api/items" || "http://localhost:5000/api/items";
  
 export default function App() {
 
